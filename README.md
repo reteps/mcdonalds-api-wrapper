@@ -1,4 +1,4 @@
-# McdonaldsOnline
+# mcdonalds-api-wrapper
 
 Using python to order mcdonalds from the command line
 
