@@ -2,6 +2,9 @@
 
 Using python to order mcdonalds from the command line
 
+# Notice
+
+This is over a year old. Most likely depreciated in some way, see [Issue #2](https://github.com/reteps/mcdonalds-api-wrapper/issues/2)
 ### Setup
 
 + Find your `api_key`. This can be done using charles or wireshark and
